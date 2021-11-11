@@ -1,0 +1,39 @@
+.primary-background{
+    background-color:  #eeeeee !important;
+}
+.footercolor{
+    background-color: #eeeeee;
+   opacity: 0.8;
+   
+}
+.footer2{
+    background-color: #5A5A64;
+    
+}
+.navbar-background{
+    background-color: #f3e5f5;
+}
+
+
+/*Linear Gradients (goes down/up/left/right/diagonally)*/
+.color1{
+    background-image: linear-gradient(to right,blueviolet,navy) !important;
+}
+
+.color2{
+    background: rgb(9,10,37);
+background: linear-gradient(90deg, rgba(9,10,37,0.9867297260701156) 0%, rgba(217,152,21,1) 40%, rgba(160,167,221,0.9951330874146533) 100%) !important;
+}
+.color3{
+    background: rgb(186,194,254);
+background: linear-gradient(90deg, rgba(186,194,254,1) 36%, rgba(255,255,255,0.9951330874146533) 100%) !important;
+}
+.background-image{
+  background-image: url(../img/photo-of-purple-flower.jpg) ;
+
+}
+.card-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
